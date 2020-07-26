@@ -1,6 +1,7 @@
 ### Hi there 👋 Welcome to leguim-repo
 
-I'm currently working on a BootCamp
+I'm currently on a BootCamp
+![Hello 👋🏻](img/bootcamp.jpg)
 
 <!--
 **leguim-repo/leguim-repo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
