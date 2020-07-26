@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to leguim-repo
 
 I'm currently on a BootCamp
-![Hello 👋🏻](https://github.com/leguim-repo/leguim-repo/blob/master/img/bootcamp.jpg)
+![Hello 👋🏻](https://github.com/leguim-repo/leguim-repo/blob/master/img/bootcamp2.jpg)
 
 <!--
 **leguim-repo/leguim-repo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
