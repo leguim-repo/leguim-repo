@@ -1,9 +1,11 @@
 ### Hi there 👋 Welcome to leguim-repo
 
+<img src="https://raw.githubusercontent.com/leguim-repo/leguim-repo/develop/img/bootcamp.jpg" width="512px"/>
+
 I'm currently on a BootCamp
-![Hello 👋🏻](https://raw.githubusercontent.com/leguim-repo/leguim-repo/develop/img/bootcamp2.jpg)
 
 <!--
+Pit i Collons
 **leguim-repo/leguim-repo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
