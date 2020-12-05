@@ -1,13 +1,13 @@
 ### Hi there 👋 Welcome to leguim-repo
 
 - 🔭 I’m currently working on:
-<img src="https://raw.githubusercontent.com/leguim-repo/leguim-repo/develop/img/seatcodebrocoli.jpg" width="512px"/>
+<img src="https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/seatcodebrocoli.jpg" width="512px"/>
 
 Enjoy with the things of my repo
 
 ![GitHub followers](https://img.shields.io/github/followers/leguim-repo?style=social)
 ---
-<img src="https://raw.githubusercontent.com/leguim-repo/leguim-repo/develop/img/codedinbcn.png" width="512px"/>
+<img src="hhttps://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/codedinbcn.png" />
 
 <!--
 Pit i Collons
