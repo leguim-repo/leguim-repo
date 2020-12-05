@@ -4,6 +4,8 @@
 
 I'm currently on a BootCamp
 
+---
+![GitHub followers](https://img.shields.io/github/followers/leguim-repo?style=social)
 <!--
 Pit i Collons
 **leguim-repo/leguim-repo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
