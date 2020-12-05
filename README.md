@@ -7,7 +7,7 @@ Enjoy with the things of my repo
 
 ![GitHub followers](https://img.shields.io/github/followers/leguim-repo?style=social)
 ---
-<img src="hhttps://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/codedinbcn.png" witdh="109px" />
+<img src="https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/codedinbcn.png" witdh="109px" />
 
 <!--
 Pit i Collons
