@@ -1,8 +1,9 @@
 ### Hi there 👋 Welcome to leguim-repo
 
-<img src="https://raw.githubusercontent.com/leguim-repo/leguim-repo/develop/img/bootcamp.jpg" width="512px"/>
 
-I'm currently on a BootCamp
+- 🔭 I’m currently working on:
+
+Enjoy with the things of my repo
 
 <!--
 Pit i Collons
