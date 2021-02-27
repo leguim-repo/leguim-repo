@@ -9,7 +9,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
 Enjoy with the things of my repo
 
 ![GitHub followers](https://img.shields.io/github/followers/leguim-repo?style=social)
