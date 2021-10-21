@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to leguim-repo
 
 - 🔭 I’m currently working on seat:code
-- 🌱 I’m currently learning about AWS and data enginieering
+- 🌱 I’m currently learning about AWS and data engineering
 - ⚡ Fun fact: This is Live!!
 
 Enjoy with the things of my repo
