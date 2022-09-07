@@ -9,13 +9,11 @@ Enjoy with the things of my repo
 <img align="left" widht="380" src="https://github-readme-stats.vercel.app/api?username=leguim-repo&count_private=true&show_icons=true"/>
 </p>
 <p>
-  <img align="left" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leguim-repo"/>
+<img align="left" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leguim-repo"/>
 </p>
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=leguim-repo"></img>
 </p>
-![GitHub followers](https://img.shields.io/github/followers/leguim-repo?style=social)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=leguim-repo)
 ---
 <img src="https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/currentfooter.png" witdh="109px" />
 
