@@ -11,7 +11,9 @@ Enjoy with the things of my repo
 <p>
   <img align="left" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leguim-repo"/>
 </p>
-
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=leguim-repo"></img>
+</p>
 ![GitHub followers](https://img.shields.io/github/followers/leguim-repo?style=social)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=leguim-repo)
 ---
