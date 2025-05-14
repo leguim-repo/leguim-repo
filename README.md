@@ -5,32 +5,10 @@
 - ⚡ Fun fact: This is Live!!
 
 Enjoy with the things of my repo
-<p>
-<img align="left" widht="380" src="https://github-readme-stats.vercel.app/api?username=leguim-repo&count_private=true&show_icons=true"/>
-</p>
-<p>
-<img align="left" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leguim-repo"/>
-</p>
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=leguim-repo"></img>
-</p>
----
-<img src="https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/currentfooter.png" witdh="109px" />
 
-<!--
-Pit i Collons
-**leguim-repo/leguim-repo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="center" widht="380" src="https://github-readme-stats.vercel.app/api?username=leguim-repo&count_private=true&show_icons=true"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=leguim-repo"></img>
+<img align="center" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leguim-repo"/>
+<img align="center" width="380" src="https://github-profile-trophy.vercel.app/?username=leguim-repo&column=3&margin-w=15&margin-h=15"/>
+<img align="center" src="https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/currentfooter.png" witdh="109px" />
 
-https://visitor-badge.glitch.me/#docs
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
