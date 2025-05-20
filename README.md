@@ -7,7 +7,7 @@
 Enjoy with the things of my repo
 
 <img align="center" width="380" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=leguim-repo&theme=default"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=leguim-repo"></img>
+<img align="center" src="https://nirzak-streak-stats.vercel.app/?user=leguim-repo"></img>
 <img align="left" width="380" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leguim-repo&theme=default"/>
 <img align="left" width="380" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leguim-repo&theme=default"/>
 <img align="center" width="380" src="https://github-profile-trophy.vercel.app/?username=leguim-repo&column=3&margin-w=15&margin-h=15"/>
