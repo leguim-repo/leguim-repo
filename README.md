@@ -6,7 +6,7 @@
 
 Enjoy with the things of my repo
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=leguim-repo&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=leguim-repo&theme=default)![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leguim-repo&theme=default)
 
 <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=leguim-repo"></img>
 <img align="left" width="380" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leguim-repo&theme=default"/>
